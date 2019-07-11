@@ -1,0 +1,10 @@
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\bin\Debug\PrintV7.exe.config
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\bin\Debug\PrintV7.exe
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\bin\Debug\PrintV7.pdb
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.csprojAssemblyReference.cache
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.Form1.resources
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.Properties.Resources.resources
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.csproj.GenerateResource.cache
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.csproj.CoreCompileInputs.cache
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.exe
+C:\Users\nhocc\source\repos\PrintV7\PrintV7\obj\Debug\PrintV7.pdb
